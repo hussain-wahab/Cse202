@@ -4,4 +4,4 @@ Dr. Murhphy Website for this course is http://cse.csusb.edu/murphy/cse202/.
 
 Dr. Murphy website is http://cse.csusb.edu/murphy/ .
 
-Note: I use Linux Operating systems for this class.
+Note: I used Linux Operating systems for this class.
